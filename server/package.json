@@ -1,8 +1,0 @@
-{
-  "name": "ramat-remote-server",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Ramat Remote Internet relay + mobile web UI",
-  "scripts": {"start": "node server.js"},
-  "engines": {"node": ">=18"}
-}
